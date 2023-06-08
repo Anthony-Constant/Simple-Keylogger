@@ -22,3 +22,11 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Acknowledgements
 
 This script was created by [Anthony Constant](https://anthonyconstant.co.uk/). 
+
+## Support My Work
+
+If you like this repository or have used any of the code, please consider showing your support:
+
+- Give it a star ⭐️ to acknowledge its value.
+- You can also support me by [buying me a coffee ☕️](https://ko-fi.com/W7W144CAO).
+
