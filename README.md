@@ -15,6 +15,10 @@ To use this script, follow these steps:
 
 - [https://www.kaspersky.co.uk/resource-center/definitions/keylogger](https://www.kaspersky.co.uk/resource-center/definitions/keylogger)
 
+## Demo
+
+https://youtu.be/bigNI6zvxF0
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
